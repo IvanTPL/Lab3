@@ -1,0 +1,6 @@
+﻿  pch.cpp
+D:\VStudio\Lab3\Lab3\Dll3\pch.cpp(6,34): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+D:\VStudio\Lab3\Lab3\Dll3\pch.cpp(6,34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  dllmain.cpp
+     Создается библиотека D:\VStudio\Lab3\Lab3\x64\Debug\Dll3.lib и объект D:\VStudio\Lab3\Lab3\x64\Debug\Dll3.exp
+  Dll3.vcxproj -> D:\VStudio\Lab3\Lab3\x64\Debug\Dll3.dll
