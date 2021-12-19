@@ -551,6 +551,8 @@ namespace Lab1
                 vec[i].X = left[i];
                 vec[i].Y = right[i];
             }
+            Console.WriteLine(a.ToLongString("F3"));
+            Console.WriteLine();
             Console.WriteLine($"Статус: {a.Integrals(vec)}");
             Console.WriteLine();
             Console.WriteLine("Результаты интегрирования:");

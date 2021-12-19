@@ -13,3 +13,4 @@ D:\VStudio\Lab3\Lab3\obj\Debug\net5.0\Lab3.dll
 D:\VStudio\Lab3\Lab3\obj\Debug\net5.0\ref\Lab3.dll
 D:\VStudio\Lab3\Lab3\obj\Debug\net5.0\Lab3.pdb
 D:\VStudio\Lab3\Lab3\obj\Debug\net5.0\Lab3.genruntimeconfig.cache
+D:\VStudio\Lab3\Lab3\obj\Debug\net5.0\Lab3.csproj.AssemblyReference.cache
